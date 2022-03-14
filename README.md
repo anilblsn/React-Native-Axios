@@ -8,7 +8,9 @@
 </tr></table>
 
 <ul>
- <li> <p>-Lottie for animations</p>
-
+ <li>
+  <p>Lottie for animations</p>
+  <p>Axios for data feth</p>
+  <p>React Navigation v6 for screens</p>
 </li>
 </ul
