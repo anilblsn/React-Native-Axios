@@ -7,3 +7,8 @@
 <td> <img src="https://user-images.githubusercontent.com/81930281/158252790-58805226-012d-44c1-97cc-e82c6dd502c3.png" alt="Drawing" style="width: 350px;"/> </td>
 </tr></table>
 
+<ul>
+ <li> <p>-Lottie for animations</p>
+
+</li>
+</ul
