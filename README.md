@@ -9,6 +9,6 @@
 
 <ul>
  <li><p>Lottie for animations</p> </li>
-  <li><p>Axios for data feth</p></li>
+  <li><p>Axios for data fetch</p></li>
  <li><p>React Navigation v6 for screens</p></li>
 </ul
